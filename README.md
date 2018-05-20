@@ -1,2 +1,2 @@
 # SQL-Practice
-This was created while learning Relational Databases on Udacity.
+Code refers from course on Relational Databases on Udacity.
